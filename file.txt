@@ -1,1 +1,2 @@
 Make new feature
+Feature B change
